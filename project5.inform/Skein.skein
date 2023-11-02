@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1149">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">project5</command>
+        <result xml:space="preserve">
+
+
+You wake up in a small cabin. You are alone, and you can't remember how you got here. Your pockets are empty and you don't have your phone. Try to find a way out.
+
+project5
+An Interactive Fiction by Lidewij Fryling
+Release 1 / Serial number 190501 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Cabin
+This is a very small cabin, very dark with only a candle in the center of the room. The walls are a dark colored log, and it it obvious it is very old. There is a large rug that covers the foor, and all the windows are foggy from the rain. There is a door to the porch.
+
+On the bigtable are a Candle and a journal.
+
+You can also see a pen and a Book (in which is a Map) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+            <child nodeId="node-1178"></child>
+            <child nodeId="node-1174"></child>
+            <child nodeId="node-1169"></child>
+            <child nodeId="node-1151"></child>
+            <child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">go straight</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Kitchen
+The kitchen is very cluttered but well lit. There are pots and pans everywhere, and there is a table with newspapers in the center. To the east, there is a door. It is unlocked.
+
+You can see a fridge here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Darkness
+It is pitch dark, and you can't see a thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Kitchen
+The kitchen is very cluttered but well lit. There are pots and pans everywhere, and there is a table with newspapers in the center. To the east, there is a door. It is unlocked.
+
+You can see a fridge here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cabin
+This is a very small cabin, very dark with only a candle in the center of the room. There is a large rug that covers the foor, and all the windows are foggy from the rain. There is a door to the porch.
+
+You can see a Candle, a Rug and a Book (in which is a Map) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">take candle</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Kitchen
+The kitchen is very cluttered but well lit. There are pots and pans everywhere, and there is a table with newspapers in the center. To the east, there is a door. It is unlocked.
+
+You can see a fridge here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Closet
+The closet is not well lit, and there are old clothes scattered on the floor. It is very tight and only fits one person. There is a box in the corner filled with different objects.
+
+You can see a box (in which is a key) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Kitchen
+The kitchen is very cluttered but well lit. There are pots and pans everywhere, and there is a table with newspapers in the center. To the east, there is a door. It is unlocked.
+
+You can see a fridge here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cabin
+This is a very small cabin, very dark with only a candle in the center of the room. There is a large rug that covers the foor, and all the windows are foggy from the rain. There is a door to the porch.
+
+You can see a Rug and a Book (in which is a Map) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Porch
+The porch is an enclosed area with two rocking chairs. The floor is wooden, and the screendoor is locked. The floorboards are a little wobbly, and you might be able to pry one up.
+
+You can see a screendoor, a rocking chair and a floorboards here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the screendoor)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">open screendoor</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">use key</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">unlock screendoor</command>
+        <result xml:space="preserve">What do you want to unlock the screendoor with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">key</command>
+        <result xml:space="preserve">You unlock the screendoor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">(first opening the screendoor)
+
+Forest
+The forest is dark, but you've made it out of the cabin!
+
+You can see a screendoor here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Porch
+The porch is an enclosed area with two rocking chairs. The floor is wooden, and the screendoor is locked. The floorboards are a little wobbly, and you might be able to pry one up.
+
+You can see a screendoor, a rocking chair and a floorboards here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+            <child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">sit in rocking chair</command>
+        <result xml:space="preserve">You get onto the rocking chair.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">get up</command>
+        <result xml:space="preserve">You get off the rocking chair.
+
+Porch
+The porch is an enclosed area with two rocking chairs. The floor is wooden, and the screendoor is locked.
+
+You can see a rocking chair here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">open screendoor</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">(first opening the screendoor)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Bathroom
+The bathroom is also dimly lit, with a dirty mirror on the right side of the door. There is one shower and one toliet, and there is a small pink rug in the center of the room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">go back</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Cabin
+This is a very small cabin, very dark with only a candle in the center of the room. There is a large rug that covers the foor, and all the windows are foggy from the rain. There is a door to the outside, but it is locked.
+
+You can see a Candle, a Rug and a Book (in which is a Map) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Kitchen
+The kitchen is very cluttered but well lit. There are pots and pans everywhere, and there is a table with newspapers in the center. To the east, there is a door. It is unlocked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve"> pick up candle</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve"> go east</command>
+        <result xml:space="preserve">
+Bathroom
+The bathroom is also dimly lit, with a dirty mirror on the right side of the door. There is one shower and one toliet, and there is a small pink rug in the center of the room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve"> look at candle</command>
+        <result xml:space="preserve">The candle seems freshly lit. It will last for a while. You can use this to see
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
